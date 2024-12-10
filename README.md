@@ -2,7 +2,7 @@
 
 Este projeto é uma simulação de um site interativo para **Alura Midi**, desenvolvido durante o curso de **JavaScript para Web: Crie páginas dinâmicas** na Alura. O site foi criado para reprodução de sons e inclui recursos de acessibilidade, tornando-o mais inclusivo e interativo. Durante o desenvolvimento, foram aplicados conceitos de JavaScript para manipulação do DOM e criação de soluções dinâmicas para melhorar a experiência do usuário.
 
-🔗 [Acesse o site aqui]([https://davidtpires.github.io/alura-midi/](https://davidtpires.github.io/aluramidi/))
+🔗 [Acesse o site aqui](https://davidtpires.github.io/aluramidi/)
 
 ---
 
